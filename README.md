@@ -1,6 +1,7 @@
 # PostSystem - Angular 9 Example With PHP 7.2 & MySQL, By Matan Aviav
 
-This repository contains an example of a full responsive dynamic Angular 9 system with PHP 7.2 & MySQL database, built by me (Matan Aviav).
+This repository contains an example of a full responsive dynamic Angular 9 system with PHP 7.2 & MySQL database, built by me (Matan Aviav).<br />
+This repository does not contain CODE. The reason: some users used to copy codes from this repository against my license.
 
 ## Table of contents:
 1. Introduction
